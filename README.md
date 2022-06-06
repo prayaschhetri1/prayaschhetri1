@@ -7,7 +7,7 @@
 I am a Full-Stack Web Developer and I love Programming and bussiness.
 
 An optimistic and self-motivated individual, looking forward to work in an IT industry which allows pushing my boundaries and serve really good work. Strong knowledge of HTML, CSS, and JavaScript.
-<br />That's why I like to make things that make a difference.
+<br />That's why I like to make things that make a difference.Excited to be a part of some organisation that challanges me to push my boundries and add some values to the user's daily life.
 
 - Currently: Full Stack Web-Development from Masai School.
               Birpara Mahavir School.
