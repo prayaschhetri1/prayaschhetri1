@@ -1,10 +1,11 @@
+
+[![MasterHead](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=1060&t=st=1660765225~exp=1660765825~hmac=65aab9fb8e8a8cb5afe75bcfca126490c31674c4ddff2f08db2cb8fc5f438b5d)](https://prayash.vercel.app/)
 <h1 align="center">Hi 👋, I'm Prayash Chhetri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif" width="400px" height="400px" alt="coderImage" />
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prayaschhetri1" alt="prayaschhetri1" /></a> </p>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px" " alt="coderImage" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **React Js and Redux**
 
@@ -32,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prayaschhetri1&show_icons=true&locale=en" alt="prayaschhetri1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prayaschhetri1&" alt="prayaschhetri1" /></p>
+
+[![Prayash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=prayaschhetri1&&theme=xcode)](https://github.com/prayaschhetri1)
